@@ -1,0 +1,6 @@
+c:\users\dhruv\onedrive\documents\visual studio 2013\Projects\Attendance_System\Attendance_System\bin\Attendance_System.dll.config
+c:\users\dhruv\onedrive\documents\visual studio 2013\Projects\Attendance_System\Attendance_System\bin\Attendance_System.dll
+c:\users\dhruv\onedrive\documents\visual studio 2013\Projects\Attendance_System\Attendance_System\bin\Attendance_System.pdb
+c:\users\dhruv\onedrive\documents\visual studio 2013\Projects\Attendance_System\Attendance_System\obj\Debug\Attendance_System.csprojResolveAssemblyReference.cache
+c:\users\dhruv\onedrive\documents\visual studio 2013\Projects\Attendance_System\Attendance_System\obj\Debug\Attendance_System.dll
+c:\users\dhruv\onedrive\documents\visual studio 2013\Projects\Attendance_System\Attendance_System\obj\Debug\Attendance_System.pdb
